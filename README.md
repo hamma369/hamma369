@@ -12,3 +12,10 @@
 ## 📈 This Week
 - Started my cybersecurity journey from zero
 - Setting up WSL2 + GCC + GDB environment
+
+
+## 📅 Today — Day 1
+- Learned Linux file system structure
+- Mastered: pwd, ls, cd, cat, chmod
+- Understood Linux permissions (rwx)
+- Unlocked my first vault 🔓
