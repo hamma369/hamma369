@@ -19,3 +19,11 @@
 - Mastered: pwd, ls, cd, cat, chmod
 - Understood Linux permissions (rwx)
 - Unlocked my first vault 🔓
+- Completed: TryHackMe Offensive Security Intro
+
+
+## 📅 Day 2
+- Linux file system navigation
+- File operations: mkdir, touch, echo, cat, cp, mv, rm
+- Permissions: chmod, rwx system
+- Completed: TryHackMe Defensive Security Intro
