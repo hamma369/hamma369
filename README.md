@@ -27,3 +27,10 @@
 - File operations: mkdir, touch, echo, cat, cp, mv, rm
 - Permissions: chmod, rwx system
 - Completed: TryHackMe Defensive Security Intro
+
+## 📅 Day 2 - Linux Power Tools
+- grep: search inside files
+- pipe |: chain commands
+- wc -l: count lines
+- find: locate files anywhere
+- 2>/dev/null: suppress errors
