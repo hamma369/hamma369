@@ -34,3 +34,9 @@
 - wc -l: count lines
 - find: locate files anywhere
 - 2>/dev/null: suppress errors
+
+## 📅 Day 3 - Linux Processes
+- ps aux: view all running processes
+- kill PID: stop a process
+- &: run process in background
+- Real use: detecting and killing malware
